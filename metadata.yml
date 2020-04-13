@@ -1,0 +1,8 @@
+id: BreedingProgramme
+name: "X-Com breeders"
+description: "Allows the commander to set up a breeding programme for domesticated strange lifeforms."
+author: "Thermite"
+version: "0.0"
+master: "x-com-files"
+isMaster: false
+requiredExtendedVersion: "6.4"
