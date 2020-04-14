@@ -4,6 +4,7 @@ research:
     points: 30
     requires:
       - STR_BASIC_OPERATIONS
+      - STR_CHIEF_RESEARCHER_CONTACT
     dependencies:
       - STR_GIANT_RAT
       - STR_GILLDOG

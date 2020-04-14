@@ -5,7 +5,7 @@ manufacture:
       - STR_BREEDING_RAT
     refund: true
     time: 240
-    cost: 30
+    cost: 1000
     requiredItems:
       STR_GIANT_RAT: 2
     randomProducedItems:

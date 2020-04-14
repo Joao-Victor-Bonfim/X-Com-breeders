@@ -1,0 +1,15 @@
+items:
+  - type: STR_BREEDING
+    bigSprite:
+        mod: master
+        index: 297
+    weight: 0
+    invWidth: 2
+    invHeight: 3
+  - type: STR_BREEDING_RAT
+    bigSprite:
+        mod: master
+        index: 297
+    weight: 0
+    invWidth: 2
+    invHeight: 3
