@@ -1,0 +1,31 @@
+research:
+  - name: STR_BREEDING
+    cost: 20
+    points: 30
+    requires:
+      - STR_BASIC_OPERATIONS
+    dependencies:
+      - STR_GIANT_RAT
+      - STR_GILLDOG
+      - STR_BLOODHOUND
+  - name: STR_BREEDING_RAT
+    cost: 20
+    points: 30
+    requires:
+      - STR_BREEDING
+    dependencies:
+      - STR_RAT_RECRUITMENT
+  #- name: STR_BREEDING_GILLDOG
+  #  cost: 20
+  #  points: 30
+  #  requires:
+  #    - STR_BREEDING
+  #  dependencies:
+  #    - STR_GILLDOG
+  #- name: STR_BREEDING_BLOODHOUND
+  #  cost: 20
+  #  points: 30
+  #  requires:
+  #    - STR_BREEDING
+  #  dependencies:
+  #    - STR_BLOODHOUND
