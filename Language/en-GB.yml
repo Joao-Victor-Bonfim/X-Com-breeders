@@ -1,0 +1,5 @@
+en-GB:
+  STR_BREEDING: "X-Com breeding initiative"
+  STR_BREEDING_UFOP: " Commander!{NEWLINE} Considering the friendliness of some of those specimens we captured with humans, it is expected that we can, perhaps, keep them as domestic animals ourselves and, with such intents in mind, the idea of breeding those animals doesn’t seem so illogical. To reach such goals, though, we would need to investigate their particular breeding habits.{NEWLINE} I would take haste on researching such matters before considering training and then deploying such animals  onto the field."
+  STR_BREEDING_RAT: "Rat breeding"
+  STR_BREEDING_RAT_UFOP: " After careful examination and cataloguing of the reproductive behaviours of the giant rat we are now able to induce reproduction. It does come at a cost, since, for some reason, they will only copulate in captivity after they are fed this very expensive brand of Camembert. Weird, isn’t it?"
