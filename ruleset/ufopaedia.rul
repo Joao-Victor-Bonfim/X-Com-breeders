@@ -1,0 +1,13 @@
+ufopaedia:
+  - id: STR_BREEDING
+    type_id: 4
+    section: STR_ALIEN_RESEARCH_UC
+    text: STR_BREEDING_UFOP
+    requires:
+      - STR_BREEDING
+  - id: STR_BREEDING_RAT
+    type_id: 4
+    section: STR_ALIEN_RESEARCH_UC
+    text: STR_BREEDING_RAT_UFOP
+    requires:
+      - STR_BREEDING_RAT
