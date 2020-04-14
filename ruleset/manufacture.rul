@@ -1,0 +1,17 @@
+manufacture:
+  - name: STR_BREEDING_RAT
+    category: STR_BREEDING
+    requires:
+      - STR_BREEDING_RAT
+    refund: true
+    time: 240
+    cost: 30
+    requiredItems:
+      STR_GIANT_RAT: 2
+    randomProducedItems:
+      - [50, {STR_GIANT_RAT: 2}]
+      - [30, {STR_GIANT_RAT: 4}]
+      - [40, {STR_GIANT_RAT: 6}]
+      - [20, {STR_GIANT_RAT: 8}]
+      - [5, {STR_GIANT_RAT: 12}]
+    producedItems: {}
