@@ -7,11 +7,11 @@ manufacture:
     time: 240
     cost: 1000
     requiredItems:
-      STR_GIANT_RAT: 2
+      STR_GIANT_RAT_TERRORIST: 2
     randomProducedItems:
-      - [50, {STR_GIANT_RAT: 2}]
-      - [30, {STR_GIANT_RAT: 4}]
-      - [40, {STR_GIANT_RAT: 6}]
-      - [20, {STR_GIANT_RAT: 8}]
-      - [5, {STR_GIANT_RAT: 12}]
+      - [50, {STR_GIANT_RAT_TERRORIST: 2}]
+      - [30, {STR_GIANT_RAT_TERRORIST: 4}]
+      - [40, {STR_GIANT_RAT_TERRORIST: 6}]
+      - [20, {STR_GIANT_RAT_TERRORIST: 8}]
+      - [5, {STR_GIANT_RAT_TERRORIST: 12}]
     producedItems: {}

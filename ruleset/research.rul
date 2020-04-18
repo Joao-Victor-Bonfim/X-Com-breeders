@@ -2,9 +2,6 @@ research:
   - name: STR_BREEDING
     cost: 20
     points: 30
-    requires:
-      - STR_BASIC_OPERATIONS
-      - STR_CHIEF_RESEARCHER_CONTACT
     dependencies:
       - STR_GIANT_RAT
       - STR_GILLDOG
@@ -12,10 +9,32 @@ research:
   - name: STR_BREEDING_RAT
     cost: 20
     points: 30
-    requires:
-      - STR_BREEDING
     dependencies:
+      - STR_BREEDING
       - STR_RAT_RECRUITMENT
+  - name: STR_GIANT_RAT
+    cost: 0
+    points: 50
+    needItem: true
+    unlocks:
+      - STR_STRANGE_CREATURE
+      - STR_BREEDING
+  - name: STR_GILLDOG
+    cost: 0
+    points: 50
+    needItem: true
+    unlocks:
+      - STR_STRANGE_CREATURE
+      - STR_MUTANT_PHYSIOLOGY
+      - STR_BREEDING
+  - name: STR_BLOODHOUND
+    cost: 0
+    points: 50
+    needItem: true
+    unlocks:
+      - STR_STRANGE_CREATURE
+      - STR_MUTANT_PHYSIOLOGY
+      - STR_BREEDING
   #- name: STR_BREEDING_GILLDOG
   #  cost: 20
   #  points: 30
